@@ -22,11 +22,14 @@
 ---
 ---
 
+---
+
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armankb2/Armankb2/main/github-metrics.svg" />
+  <img src="https://metrics.lecoq.io/Armankb2?template=classic&base.header=0&base.community=0&base.activity=1&languages=1&achievements=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
 </p>
+
 
 ## 📊 GitHub Stats
 
