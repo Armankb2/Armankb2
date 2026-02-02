@@ -24,20 +24,24 @@
 
 ---
 
+---
+
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Armankb2?template=classic&base.header=0&base.community=0&base.activity=1&languages=1&achievements=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
+  <img src="https://github.com/Armankb2/Armankb2/raw/main/.github/profile-metrics.svg" />
 </p>
 
+---
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armankb2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armankb2&show_icons=true" />
 </p>
+>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armankb2&theme=tokyonight" />
