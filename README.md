@@ -20,6 +20,13 @@
 - 🚀 Building real projects step by step  
 
 ---
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Armankb2/Armankb2/main/github-metrics.svg" />
+</p>
 
 ## 📊 GitHub Stats
 
