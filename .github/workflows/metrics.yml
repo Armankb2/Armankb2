@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: Armankb2
+          template: classic
+          base: header, activity, community
+
+          plugin_languages: yes
+          plugin_languages_limit: 6
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
