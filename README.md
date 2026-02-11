@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Networking | Security | Automation</h3>
 
 ---
-
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 ## 🚀 GitHub Space Shooter
 
 <p align="center">
