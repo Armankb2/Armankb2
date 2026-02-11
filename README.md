@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Computer Science Student | Networking | Security | Automation</h3>
 
----
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app">
+    <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+  </a>
+</p>
+
+
 ## 🚀 GitHub Space Shooter
 
 <p align="center">
   <img src="https://github.com/Armankb2/my-github-project/blob/master/assets/space-shooter.gif?raw=true" width="600"/>
 </p>
 
----
+
+
 
 ## 👨‍💻 About Me
 
@@ -17,32 +25,35 @@
 - 🔐 Interested in Cyber Security & Networks  
 - ⚙️ Learning Automation & DevOps  
 - 💻 Working with Flutter, Python, C, Git  
-- 🚀 Building real projects step by step  
+- 🚀 Building real-world projects step by step  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armankb2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armankb2&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Armankb2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Armankb2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Armankb2&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armankb2&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armankb2&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Armankb2&theme=github_dark&utcOffset=5.5" />
 </p>
 
-## 🛠 Skills
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,flutter,dart,git,github,html,css,js,linux" />
 </p>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
@@ -58,8 +69,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Armankb2  
-- LinkedIn: (Add your link)
+- LinkedIn: https://www.linkedin.com/in/arman-kb-b53206262/
 
 ---
 
-⭐ If you like my profile, feel free to follow 🙂
